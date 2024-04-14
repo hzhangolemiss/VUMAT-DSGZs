@@ -1,0 +1,32 @@
+# Ignore compiled object files
+#*.o
+
+# Ignore executables
+#*.exe
+#*.out
+
+# Ignore log files
+#*.log
+
+# Ignore build directories
+#/build/
+#/dist/
+
+# Ignore package files
+#*.tar.gz
+#*.zip
+
+# Ignore IDE-specific files
+#.vscode/
+#.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+#*.tmp
+#*.bak
+
+# Ignore abaqus run files
+*.odb
